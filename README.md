@@ -3,3 +3,9 @@ Final project for Final project for Data Analytics course (ITC C506) carried out
 
 ```Please cite this  project if this repository is useful for your research.```
 
+## Project Overview
+Customer churn prediction for SMARTER company.
+
+* dataset: [.xlsx](dataset/ChurnData.xlsx)
+* notebook: [.ipynb](ChurnAnalysis.ipynb)
+* fullpaper: [.pdf](fullpaper/CRISP-DM-ChurnAnalysis.pdf)
