@@ -5,17 +5,17 @@ Final project for Data Analytics course (ITC C506) carried out at José Rizal Un
 
 ## Project Overview
 ### Business Understanding
-* Customer churn prediction for SMARTER company
-* The dataset is based on the activity of the subscribers' from last month.
-* THe dataset is approximately 50,000 rows long and 58 columns wide
+* customer churn prediction for SMARTER company
+* the dataset is based on the activity of the subscribers' from last month.
+* tHe dataset is approximately 50,000 rows long and 58 columns wide
 
 Objective:
 
-- Understand why customer is leaving (‘churning’) the company and build a predictive model to analyze who most likely leave in the future.
-- Characteristics of those customers who churned and who did not churn.
-- Whether customers’ months in service has any impact on churn.
-- Whether churn amount was different at certain revenue levels.
-- Whether those that churned that had higher levels of dropped or blocked calls.
+- understand why customer is leaving (‘churning’) the company and build a predictive model to analyze who most likely leave in the future.
+- characteristics of those customers who churned and who did not churn.
+- whether customers’ months in service has any impact on churn.
+- whether churn amount was different at certain revenue levels.
+- whether those that churned that had higher levels of dropped or blocked calls.
 
 ## Getting Started :seedling:
 To get the local copy of thi repository, please run the following commands on your terminal:
