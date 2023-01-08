@@ -26,7 +26,7 @@ To get the local copy of thi repository, please run the following commands on yo
 * fullpaper: [.pdf](fullpaper/CRISP-DM-ChurnAnalysis.pdf)
 
 ## Results
-|Score   | Model|                 |
+|Score   | Model                  |
 |--------|------------------------|
 |0.933682| Decision Tree          | 
 |0.709021| Support Vector Machine |  
