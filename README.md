@@ -7,7 +7,7 @@ Final project for Data Analytics course (ITC C506) carried out at José Rizal Un
 ### Business Understanding
 * customer churn prediction for SMARTER company
 * the dataset is based on the activity of the subscribers' from last month.
-* tHe dataset is approximately 50,000 rows long and 58 columns wide
+* the dataset is approximately 50,000 rows long and 58 columns wide
 
 Objective:
 
