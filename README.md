@@ -45,3 +45,9 @@ from the above table the Decision Tree model is the best model as it has the acc
 ### Confusion Matrix
 ![confusion matrix](preview/confusion-matrix.png)
 
+_Interpretation:_
+_TN:_ eight thousand seven hundred ten (8710) customers did not churn that are correctly predicted
+_TP:_ five thousand one hundred ninety-four (5194) customers churned that are correctly predicted
+_FN:_ eight hundred sixty-one (861) customers churned, but predicted that they will not churn
+_FP:_ one hundred thirty-three (133) customers did not churn but predicted that they will churn
+
