@@ -51,3 +51,6 @@ _Interpretation:_
 * FN: eight hundred sixty-one (861) customers churned, but predicted that they will not churn
 * FP: one hundred thirty-three (133) customers did not churn but predicted that they will churn
 
+## License
+This project is [MIT](LICENSE) Licensed
+
