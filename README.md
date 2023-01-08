@@ -25,7 +25,7 @@ To get the local copy of thi repository, please run the following commands on yo
 * notebook: [.ipynb](ChurnAnalysis.ipynb)
 * fullpaper: [.pdf](fullpaper/CRISP-DM-ChurnAnalysis.pdf)
 
-## Results
+## Results :palm_tree:
 |Score   | Model                  |
 |--------|------------------------|
 |0.933682| Decision Tree          | 
@@ -33,4 +33,15 @@ To get the local copy of thi repository, please run the following commands on yo
 |0.705128| Naive Bayes            |
 |0.689019| K-Nearest Neighbor     |    
 |0.674184| Logistic Regression    |    
+
+from the above table the Decision Tree model is the best model as it has the accuracy score of ```93%```
+
+### measure accuracy of the classifier
+```Accuracy score: 93.33```
+```Precision: 97.50```
+```Recall: 85.78```
+```F1 score: 91.27```
+
+### Confusion Matrix
+![confusion matrix](preview/confusion-matrix.png)
 
