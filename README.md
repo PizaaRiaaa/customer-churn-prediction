@@ -1,5 +1,5 @@
 # Customer churn prediction
-Final project for Data Analytics course (ITC C506) carried out at José Rizal University. The code has been made available as a reference if anyone would like to reproduce the results of this project.
+Final project for Data Analytics course (ITC C506). The code has been made available as a reference if anyone would like to reproduce the results of this project.
 
 ```Please cite this  project if this repository is useful for your research.```
 
